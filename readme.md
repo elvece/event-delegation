@@ -1,2 +1,2 @@
 ##Event Delegation
-This repo contains the solution to an exercise that practices event delegation in jQuery.
+This repo contains my solution to an event delegation practice exercise in jQuery.
